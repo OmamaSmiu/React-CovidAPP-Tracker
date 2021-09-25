@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+}
+.myReact-icons{
+  color: red;
+}
+.card{
+  border: none;
+  border-radius: none;
+}
+
+.card-main{
+  justify-content: center;
+  text-align: center;
+  color: white;
+  padding: 35px;
+}
+#card-data{
+  margin-top: 20px;
+padding: 45px;
+}
+.card-title{
+  font-size: x-large;
+}
+.card-text{
+  font-size: x-large;
+}
+
